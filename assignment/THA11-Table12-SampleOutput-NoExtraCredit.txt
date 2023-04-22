@@ -1,0 +1,18 @@
+Correlation matrix for input file CockroachDietMicrobiomePropTable12.txt
+
+	Chitin1	Chitin2	Chitin3	Chitin4	Chitin5	Chitin6	Xylan1	Xylan2	Xylan3	Xylan4	Xylan5	Xylan6
+Chitin1	   *	  0.513	  0.058	  0.049	 -0.097	  0.574	 -0.197	 -0.158	 -0.130	 -0.130	 -0.147	 -0.109
+Chitin2		   *	  0.164	  0.239	  0.111	  0.393	 -0.226	 -0.181	 -0.150	 -0.149	 -0.167	 -0.125
+Chitin3			   *	  0.506	  0.221	 -0.073	  0.005	 -0.113	 -0.096	 -0.106	 -0.123	 -0.089
+Chitin4				   *	  0.165	  0.017	 -0.019	 -0.171	 -0.137	 -0.079	 -0.120	 -0.094
+Chitin5					   *	  0.056	 -0.152	 -0.142	 -0.136	 -0.119	 -0.143	 -0.111
+Chitin6						   *	 -0.264	 -0.216	 -0.183	 -0.188	 -0.200	 -0.158
+Xylan1							   *	  0.598	  0.622	  0.647	  0.276	  0.669
+Xylan2								   *	  0.834	  0.776	  0.401	  0.856
+Xylan3									   *	  0.918	  0.718	  0.941
+Xylan4										   *	  0.614	  0.970
+Xylan5											   *	  0.531
+Xylan6												   *
+
+Notes:
+Pearson correlation coefficient values are shown in the upper right triangle
